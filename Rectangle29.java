@@ -13,7 +13,7 @@ public class Rectangle29 {
 
         for (int i = 1; i <= baris; i++) {      //outer loop: baris
             for (int j = 1; j <= kolom; j++) {  //inner loop: kolom
-                System.out.print("*");
+                System.out.print("#");
 
             }
             System.out.println();               //Pindah baris
